@@ -1,0 +1,54 @@
+img{border:solid}
+li{border:solid}
+
+.header{
+    background-color: cornsilk;
+    display:flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
+
+.menue{
+    
+        display:flex;
+        justify-content: space-between;
+        flex-wrap:wrap;
+    }
+    
+
+    
+    .chlam{
+        
+        display: flex;
+        flex-wrap:wrap;
+        justify-content :space-evenly;
+    }
+    
+    .cia{
+        display:flex;
+        justify-content:flex end;
+        flex-wrap:wrap;
+    }
+
+    .pan{
+        display:flex;
+        justify-content:flex end;
+    }
+
+    .ted{
+        display:flex;
+        justify-content:flex end;
+    }
+
+    .pigeo{
+        display:flex;
+        justify-content:flex end;
+    }
+
+
+    
+    p.h2{
+    text-align:center;
+    background-color: cornsilk;
+    }
+    
